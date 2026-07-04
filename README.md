@@ -1,41 +1,41 @@
 # ToPDF Editor 📄🤖
 
-**Editor PDF per Android con AI privata.** I tuoi documenti restano sul tuo dispositivo: niente account, niente cloud obbligatorio, niente pubblicità, niente tracciamento.
+**Android PDF editor with private AI.** Your documents stay on your device: no accounts, no mandatory cloud, no ads, no tracking.
 
 ## 📥 Download
 
-**[⬇️ Scarica l'ultimo APK dalla pagina Releases](../../releases/latest)**
+**[⬇️ Download the latest APK from Releases](../../releases/latest)**
 
-Requisiti: Android 8.0 o superiore. Apri l'APK sul telefono e consenti l'installazione quando richiesto.
+Requirements: Android 8.0 or higher. Open the APK on your phone and allow installation when prompted.
 
-💡 Con [Obtainium](https://github.com/ImranR98/Obtainium) puoi aggiungere questo repository e ricevere gli aggiornamenti automaticamente.
+💡 With [Obtainium](https://github.com/ImranR98/Obtainium) you can add this repository and get automatic updates.
 
-## ✨ Funzionalità
+## ✨ Features
 
-- **✏️ Modifica testo professionale** — tocca una riga e modificala: l'app riconosce carattere, dimensione e colore originali e ricompone la riga con riflusso naturale delle parole
-- **🔒 Privacy totale (local-first)** — tutte le funzioni PDF sono offline; l'AI usa il **tuo** server locale (LM Studio / Ollama) o, in opzione, la tua chiave Google Gemini: decidi tu dove vanno i tuoi dati
-- **🤖 Assistente AI sul documento** — chat, riassunti, traduzioni, estrazione dati, compilazione moduli e correzioni proposte (con tua conferma esplicita)
-- **📖 Modalità lettura** — scorrimento continuo, zoom, ricerca nel testo, indice/segnalibri, temi giorno/seppia/notte, schermo intero
-- **🖊️ Firma** — a mano libera e firma certificata PKCS#12
-- **🧰 Strumenti completi** — evidenzia, disegna, unisci/dividi/ruota/riordina pagine, immagini→PDF, foto→testo (OCR AI), esporta in Word (DOCX)
-- **🔤 Font reali** — Liberation e Carlito (metricamente compatibili con Arial/Times/Courier/Calibri) incorporati nei PDF modificati
-- 🇮🇹 Interfaccia in italiano e inglese
+- **✏️ Professional text editing** — tap a line to edit it: the app detects the original font, size and color and reflows the line naturally
+- **🔒 Total privacy (local-first)** — all PDF features work offline; AI uses **your own** local server (LM Studio / Ollama) or, optionally, your Google Gemini key — you decide where your data goes
+- **🤖 AI assistant on the document** — chat, summaries, translations, data extraction, form filling, and proposed corrections (with your explicit confirmation)
+- **📖 Reading mode** — continuous scroll, zoom, in-text search, table of contents/bookmarks, day/sepia/night themes, fullscreen
+- **🖊️ Signing** — freehand signature and PKCS#12 certified signature
+- **🧰 Full toolset** — highlight, draw, merge/split/rotate/reorder pages, images→PDF, photo→text (AI OCR), export to Word (DOCX)
+- **🔤 Real fonts** — Liberation and Carlito (metric-compatible with Arial/Times/Courier/Calibri) embedded in edited PDFs
+- 🇮🇹🇬🇧 Italian and English UI
 
-## 🧠 Configurare l'AI (opzionale)
+## 🧠 Configuring AI (optional)
 
-Tutte le funzioni PDF classiche funzionano senza AI. Per attivare l'assistente:
+All classic PDF features work without AI. To enable the assistant:
 
-1. **Server locale (consigliato per la privacy)**: installa [LM Studio](https://lmstudio.ai) o [Ollama](https://ollama.com) sul PC, attiva il server sulla rete locale e inserisci l'endpoint nelle Impostazioni dell'app (es. `http://192.168.1.10:1234/v1`).
-2. **Google Gemini**: crea una chiave gratuita su [Google AI Studio](https://aistudio.google.com/apikey) e incollala in Impostazioni → Gemini Cloud.
+1. **Local server (recommended for privacy)**: install [LM Studio](https://lmstudio.ai) or [Ollama](https://ollama.com) on your PC, enable the server on your local network, and enter the endpoint in the app's Settings (e.g. `http://192.168.1.10:1234/v1`).
+2. **Google Gemini**: create a free key at [Google AI Studio](https://aistudio.google.com/apikey) and paste it into Settings → Gemini Cloud.
 
-## 🐛 Segnalazioni e richieste
+## 🐛 Bug reports and requests
 
-Apri una [issue](../../issues) — è anche il canale di contatto indicato nella privacy policy.
+Open an [issue](../../issues) — this is also the contact channel listed in the privacy policy.
 
 ## 🔐 Privacy
 
-Leggi la [privacy policy completa](PRIVACY_POLICY.md). In breve: l'app non raccoglie alcun dato; i documenti non lasciano il dispositivo se non verso il provider AI che configuri tu, quando lo usi tu.
+Read the [full privacy policy](PRIVACY_POLICY.md). In short: the app collects no data; documents never leave the device except to the AI provider you configure, only when you use it.
 
 ---
 
-© 2026 Andrea.ala — Tutti i diritti riservati. Questo repository distribuisce l'app in forma binaria; il codice sorgente non è pubblico.
+© 2026 Andrea.ala — All rights reserved. This repository distributes the app in binary form; the source code is not public.
