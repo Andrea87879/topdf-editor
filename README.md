@@ -1,4 +1,4 @@
-# SmartPDF AI 📄🤖
+# ToPDF Editor 📄🤖
 
 **Editor PDF per Android con AI privata.** I tuoi documenti restano sul tuo dispositivo: niente account, niente cloud obbligatorio, niente pubblicità, niente tracciamento.
 

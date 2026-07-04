@@ -1,8 +1,8 @@
-# Privacy Policy — SmartPDF AI
+# Privacy Policy — ToPDF Editor
 
 **Ultimo aggiornamento: 4 luglio 2026**
 
-SmartPDF AI ("l'App") è un editor PDF *local-first* sviluppato da Andrea.ala. Questa informativa descrive quali dati tratta l'App e come.
+ToPDF Editor ("l'App") è un editor PDF *local-first* sviluppato da Andrea.ala. Questa informativa descrive quali dati tratta l'App e come.
 
 ## In sintesi
 - I tuoi documenti **restano sul tuo dispositivo**. L'App non ha server propri e non carica i tuoi file da nessuna parte per proprio conto.
@@ -42,15 +42,15 @@ L'App non è rivolta a minori di 13 anni e non raccoglie consapevolmente dati di
 Eventuali modifiche a questa informativa saranno pubblicate a questo stesso indirizzo con data aggiornata.
 
 ## Contatti
-Per domande su questa informativa apri una issue su GitHub: https://github.com/Andrea87879/smartpdf/issues
+Per domande su questa informativa apri una issue su GitHub: https://github.com/Andrea87879/topdf-editor/issues
 
 ---
 
-# Privacy Policy — SmartPDF AI (English)
+# Privacy Policy — ToPDF Editor (English)
 
 **Last updated: July 4, 2026**
 
-SmartPDF AI (the "App") is a local-first PDF editor developed by Andrea.ala.
+ToPDF Editor (the "App") is a local-first PDF editor developed by Andrea.ala.
 
 - Your documents **stay on your device**. The App has no servers of its own and never uploads your files on its own behalf.
 - No accounts, no ads, no analytics or tracking.
@@ -60,4 +60,4 @@ SmartPDF AI (the "App") is a local-first PDF editor developed by Andrea.ala.
 - We collect no personal data, no location, no contacts, no advertising identifiers, no usage analytics.
 - The App is not directed at children under 13.
 
-Contact: open an issue at https://github.com/Andrea87879/smartpdf/issues
+Contact: open an issue at https://github.com/Andrea87879/topdf-editor/issues
