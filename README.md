@@ -10,6 +10,18 @@ Requirements: Android 8.0 or higher. Open the APK on your phone and allow instal
 
 💡 With [Obtainium](https://github.com/ImranR98/Obtainium) you can add this repository and get automatic updates.
 
+## 📸 Screenshots
+
+<table>
+<tr>
+<td><img src="screenshots/onboarding.png" width="200" alt="Onboarding"/></td>
+<td><img src="screenshots/home.png" width="200" alt="Home"/></td>
+<td><img src="screenshots/editor.png" width="200" alt="Editor"/></td>
+<td><img src="screenshots/reader.png" width="200" alt="Reading mode"/></td>
+<td><img src="screenshots/settings.png" width="200" alt="AI settings"/></td>
+</tr>
+</table>
+
 ## ✨ Features
 
 - **✏️ Professional text editing** — tap a line to edit it: the app detects the original font, size and color and reflows the line naturally
