@@ -30,11 +30,11 @@ All classic PDF features work without AI. To enable the assistant:
 
 ## 🐛 Bug reports and requests
 
-Open an [issue](../../issues) — this is also the contact channel listed in the privacy policy.
+Open an [issue](../../issues).
 
 ## 🔐 Privacy
 
-Read the [full privacy policy](PRIVACY_POLICY.md). In short: the app collects no data; documents never leave the device except to the AI provider you configure, only when you use it.
+The app collects no data; documents never leave the device except to the AI provider you configure, only when you use it.
 
 ---
 
